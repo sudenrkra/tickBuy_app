@@ -1,2 +1,2 @@
-#🛒 TickBuy - Alışveriş Listesi
+# 🛒 TickBuy - Alışveriş Listesi
 

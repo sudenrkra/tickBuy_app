@@ -1,0 +1,33 @@
+# Flutter/Dart build ve IDE dosyaları
+/build/
+/.dart_tool/
+/.packages
+.pub-cache/
+/.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+*.log
+
+# iOS ve Android spesifik
+**/Pods/
+**/DerivedData/
+*.xcworkspace
+*.xcuserdata/
+*.keystore
+*.jks
+*.gradle
+
+# VS Code ve diğer editörler
+.vscode/
+*.swp
+
+# Hive veri dosyaları
+*.hive
+*.hive.lock
+
+# Diğer geçici dosyalar
+*.DS_Store
+*.tmp
+*.bak
+*.old

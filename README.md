@@ -1,7 +1,7 @@
 # 🛒 TickBuy - Alışveriş Listesi
 TickBuy, alışveriş süreçlerinizi dijitalleştirerek daha düzenli hale getiren, kullanıcı dostu ve şık tasarımlı bir Flutter uygulamasıdır. Ürünlerinizi kategorize edebilir, aciliyet durumlarını belirleyebilir ve harcamalarınızı kolayca takip edebilirsiniz.
 
-#Özellikler
+## Özellikler
 Çoklu Liste Yönetimi: Farklı ihtiyaçlarınız için (Market, Ev, İş vb.) ayrı listeler oluşturun.
 
 İlerleme Takibi: Listenizdeki ürünlerin ne kadarını tamamladığınızı görsel bar üzerinden takip edin.

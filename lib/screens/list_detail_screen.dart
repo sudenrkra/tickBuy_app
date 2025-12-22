@@ -197,17 +197,17 @@ class _ListDetailScreenState extends State<ListDetailScreen> {
         flexibleSpace: ClipRect(
           child: BackdropFilter(
             filter: ImageFilter.blur(sigmaX: 7, sigmaY: 7),
-            child: Container(color: Colors.white.withOpacity(0.85)),
+            child: Container(color: primaryColor),
           ),
         ),
         title: Text(
           liste.listeAdi,
           style: const TextStyle(
             fontWeight: FontWeight.bold,
-            color: Colors.black87,
+            color: Colors.white,
           ),
         ),
-        foregroundColor: Colors.black87,
+        foregroundColor: Colors.white,
       ),
 
       body: ListView(

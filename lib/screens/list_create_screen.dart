@@ -81,12 +81,12 @@ class _ListCreateScreenState extends State<ListCreateScreen> {
 
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: Colors.white,
+        backgroundColor: primary,
         title: const Text(
           'Yeni Liste',
-          style: TextStyle(color: Colors.black87, fontWeight: FontWeight.bold),
+          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
         ),
-        foregroundColor: Colors.black87,
+        foregroundColor: Colors.white,
       ),
 
       body: SingleChildScrollView(

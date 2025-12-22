@@ -24,14 +24,14 @@ class HomeScreen extends StatelessWidget {
         flexibleSpace: ClipRect(
           child: BackdropFilter(
             filter: ImageFilter.blur(sigmaX: 6, sigmaY: 6),
-            child: Container(color: Colors.white.withOpacity(0.85)),
+            child: Container(color: primaryColor),
           ),
         ),
         title: const Text(
           '🛒 Alışveriş Listelerim',
-          style: TextStyle(fontWeight: FontWeight.bold, color: Colors.black87),
+          style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),
         ),
-        foregroundColor: Colors.black87,
+        foregroundColor: Colors.white,
         actions: [
           Center(
             child: Padding(
@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
                 'Toplam ${listProvider.toplamAktifUrunSayisi} Ürün',
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
-                  color: Colors.black54,
+                  color: Colors.white70,
                 ),
               ),
             ),

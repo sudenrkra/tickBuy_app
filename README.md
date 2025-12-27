@@ -50,4 +50,13 @@ lib/
  └── main.dart        #  Uygulama giriş noktası
 
  
+## 📸 Ekran Görüntüleri
+
+| Splash | Home |
+|-------|------|
+| ![](assets/screenshots/splash.png) | ![](assets/screenshots/home.png) |
+
+| Detail | Create |
+|-------|--------|
+| ![](assets/screenshots/detail.png) | ![](assets/screenshots/create.png) |
 

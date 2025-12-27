@@ -44,10 +44,10 @@ Animations: Flutter AnimationController & Transitions
 
 ## 📁 Proje Yapısı
 lib/
- ├── models/          # Veri modelleri (UrunOgesi, AlisverisListesi)
- ├── screens/         # UI Ekranları (Home, Detail, Create, Splash)
- ├── services/        # Veri yönetimi ve Provider sınıfları
- └── main.dart        # Uygulama giriş noktası
+ ├── models/          #  Veri modelleri (UrunOgesi, AlisverisListesi)
+ ├── screens/         #  UI Ekranları (Home, Detail, Create, Splash)
+ ├── services/        #  Veri yönetimi ve Provider sınıfları
+ └── main.dart        #  Uygulama giriş noktası
 
  
 

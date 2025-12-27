@@ -6,7 +6,7 @@
 TickBuy, alışveriş süreçlerinizi dijitalleştirerek daha düzenli hale getiren, kullanıcı dostu ve şık tasarımlı bir Flutter uygulamasıdır. Ürünlerinizi kategorize edebilir, aciliyet durumlarını belirleyebilir ve harcamalarınızı kolayca takip edebilirsiniz.
 
 
-## Özellikler
+## ✨Özellikler
 Çoklu Liste Yönetimi: Farklı ihtiyaçlarınız için (Market, Ev, İş vb.) ayrı listeler oluşturun.
 
 İlerleme Takibi: Listenizdeki ürünlerin ne kadarını tamamladığınızı görsel bar üzerinden takip edin.
@@ -22,7 +22,7 @@ Yerel Veritabanı: Hive entegrasyonu sayesinde internetiniz olmasa bile verileri
 Splash Screen: Uygulama açılışında şık bir logo animasyonu.
 
 
-## Tasarım
+## 🎨Tasarım
 Uygulama, göz yormayan Açık Tema (Light Mode) prensibiyle tasarlanmıştır:
 
 Temiz beyaz arka planlar.
@@ -32,7 +32,7 @@ Yumuşak gölgeli modern kart tasarımları.
 Modern tipografi ve canlı aksan renkleri.
 
 
-## Kullanılan Teknolojiler
+## 🛠️Kullanılan Teknolojiler
 Framework: Flutter
 
 State Management: Provider
@@ -42,7 +42,7 @@ Database: Hive (Local NoSQL Storage)
 Animations: Flutter AnimationController & Transitions
 
 
-## Proje Yapısı
+## 📁 Proje Yapısı
 lib/
  ├── models/          # Veri modelleri (UrunOgesi, AlisverisListesi)
  ├── screens/         # UI Ekranları (Home, Detail, Create, Splash)

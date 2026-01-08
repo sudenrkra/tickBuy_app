@@ -65,6 +65,16 @@ Animations: Flutter AnimationController & Transitions
 
 ---
 
+## 📦 APK İndirme
+
+Uygulamanın **APK sürümü**, GitHub Releases üzerinden paylaşılmıştır.
+
+👉 [APK’yı İndir (v1.0.0)](https://github.com/sudenrkra/tickBuy_app/releases/tag/v1.0.0)
+
+APK dosyasını Android cihazınıza indirerek uygulamayı doğrudan kurabilirsiniz.  
+Kurulum sırasında gerekirse **“Bilinmeyen kaynaklara izin ver”** seçeneğini aktif etmeniz yeterlidir.
+
+---
 ## 📁 Proje Yapısı
 ```text
 lib/

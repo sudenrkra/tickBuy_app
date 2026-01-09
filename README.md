@@ -65,6 +65,12 @@ Animations: Flutter AnimationController & Transitions
 
 ---
 
+## Youtube Linki
+https://youtu.be/083Q9F-g0nE
+
+---
+
+
 ## 📦 APK İndirme
 
 Uygulamanın **APK sürümü**, GitHub Releases üzerinden paylaşılmıştır.

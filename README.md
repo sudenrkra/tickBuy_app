@@ -24,18 +24,6 @@ Uygulama geliştirilirken kullanılan temel araçlar ve diller:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-NoSQL-%23FFCD00?style=for-the-badge&logo=hive&logoColor=black)
 
----
-
-## 📊 Proje İstatistikleri
-Senin profilindeki o havalı görünümü buraya da taşıdım:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudenrkra&repo=tickBuy_app&theme=tokyonight&show_owner=true&hide_border=false" alt="Repo Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudenrkra&theme=tokyonight&layout=compact&hide_border=false" alt="Top Langs" />
-</p>
 
 ---
 
@@ -52,7 +40,7 @@ Senin profilindeki o havalı görünümü buraya da taşıdım:
 
 ## 📸 Uygulama İçi Görünümler
 
-| Splash Ekranı | Ana Sayfa | Detay Sayfası | Yeni Ekle |
+|       |      |     |        |
 |:---:|:---:|:---:|:---:|
 | <img src="assets/screenshots/splash.png" width="150"> | <img src="assets/screenshots/home.png" width="150"> | <img src="assets/screenshots/detail.png" width="150"> | <img src="assets/screenshots/create.png" width="150"> |
 
